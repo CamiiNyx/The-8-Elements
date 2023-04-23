@@ -4,7 +4,7 @@ null,
 {"id":2,"list":[{"code":129,"indent":0,"parameters":[59,1,false]},{"code":129,"indent":0,"parameters":[59,1,false]},{"code":129,"indent":0,"parameters":[59,1,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Bye pegasus knigth","switchId":275,"trigger":2},
 {"id":3,"list":[{"code":122,"indent":0,"parameters":[18,18,0,2,1,4]},{"code":121,"indent":0,"parameters":[474,474,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Steall  skill call ","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":122,"indent":0,"parameters":[19,19,0,2,1,4]},{"code":121,"indent":0,"parameters":[475,475,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Take","switchId":1,"trigger":0},
-{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":129,"indent":0,"parameters":[59,0,false]},{"code":129,"indent":0,"parameters":[59,0,false]},{"code":129,"indent":0,"parameters":[59,0,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Water Clon","switchId":1,"trigger":0},
 {"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
