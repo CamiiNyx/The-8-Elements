@@ -2,7 +2,7 @@
 null,
 {"id":1,"atypeId":5,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Escudo de bronce","note":"","params":[0,0,0,10,0,0,0,0],"price":20},
 {"id":2,"atypeId":0,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":154,"name":"Notas","note":"Trio Primsrio!\nEl Brujo clones!\nSuper Sentei Rangers Riders\nPhobius\nThe Morning knight\n\n\n","params":[5000,5000,500,500,500,500,500,500],"price":0},
-{"id":3,"atypeId":16,"description":"Bufanda que una vez pertenecio a Lila, que brinda\nel calor que solo una madre puede dar","etypeId":6,"traits":[{"code":22,"dataId":8,"value":0.05}],"iconIndex":145,"name":"Bufanda de mamá","note":"","params":[0,0,0,35,0,30,0,0],"price":25},
+{"id":3,"atypeId":16,"description":"Bufanda que una vez pertenecio a Lila, que brinda\nel calor que solo una madre puede dar","etypeId":5,"traits":[{"code":22,"dataId":8,"value":0.05}],"iconIndex":145,"name":"Bufanda de mamá","note":"","params":[0,0,0,35,0,30,0,0],"price":25},
 {"id":4,"atypeId":1,"description":"Aumenta la defensa maga \nsolo para unidades fisicas","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo magico","note":"","params":[0,0,0,0,0,20,0,0],"price":300},
 {"id":5,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Tunica de lana","note":"","params":[0,0,0,10,0,25,0,0],"price":20},
 {"id":6,"atypeId":1,"description":"Armadura de un novato muy ligera","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armadura de escudero","note":"","params":[0,0,0,30,0,15,15,5],"price":50},
