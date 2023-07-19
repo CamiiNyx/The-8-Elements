@@ -118,6 +118,16 @@ null,
 {"id":116,"atypeId":17,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":4,"value":1}],"iconIndex":266,"name":"Pelaje","note":"","params":[0,0,0,90,0,0,0,0],"price":0},
 {"id":117,"atypeId":17,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":4,"value":1}],"iconIndex":266,"name":"Pelaje","note":"","params":[0,0,0,45,0,45,0,0],"price":0},
 {"id":118,"atypeId":9,"description":"Botas que aumentan la capacidad de salto a 5 casillas","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":141,"name":"Super botas","note":"","params":[0,0,0,0,0,0,10,0],"price":700},
-{"id":119,"atypeId":9,"description":"Botas que permiten saltar ha lugares altos","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Botas de pegaso","note":"","params":[0,0,0,0,0,0,10,0],"price":0},
-{"id":120,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":119,"atypeId":9,"description":"Botas que permiten saltar ha lugares altos","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Botas de pegaso","note":"","params":[0,0,0,0,0,0,10,0],"price":100},
+{"id":120,"atypeId":1,"description":"Armadura que reducira los PV del usuario,pero \nbrinda una defensas espectaculares ","etypeId":4,"traits":[{"code":23,"dataId":0,"value":2},{"code":12,"dataId":0,"value":1}],"iconIndex":137,"name":"Rey","note":"","params":[-400,0,0,100,90,0,0,0],"price":1500},
+{"id":121,"atypeId":1,"description":"Casco ligero no tiene nada especial ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Peon","note":"","params":[0,0,0,20,0,0,0,0],"price":100},
+{"id":122,"atypeId":1,"description":"Aumenta todas las estadisticas en 20 puntos","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Reina","note":"","params":[20,20,20,20,20,20,20,20],"price":600},
+{"id":123,"atypeId":1,"description":"Aumenta la posibilidad de acertar en un 20%","etypeId":5,"traits":[{"code":22,"dataId":0,"value":0.2}],"iconIndex":147,"name":"Alfil","note":"","params":[0,0,0,0,20,10,0,0],"price":300},
+{"id":124,"atypeId":1,"description":"Auemnta el daño fisico recibido al doble pero reduce\nel magico a la mitad","etypeId":5,"traits":[{"code":23,"dataId":6,"value":2}],"iconIndex":150,"name":"Torre","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":125,"atypeId":1,"description":"Aumenta las posibilidades de esquivar ","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.2}],"iconIndex":140,"name":"Caballo","note":"","params":[0,0,0,0,0,0,10,0],"price":300},
+{"id":126,"atypeId":9,"description":"Reduce el daño de terreno como pantanos venenosos","etypeId":5,"traits":[{"code":23,"dataId":8,"value":0.45}],"iconIndex":140,"name":"Botas de imparables","note":"","params":[0,0,0,10,15,0,0,0],"price":120},
+{"id":127,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":128,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":129,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":130,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
