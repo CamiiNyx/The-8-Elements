@@ -93,5 +93,5 @@ null,
 {"id":91,"battlerName":"Anim jellyfish-default_2","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":10,"maxLevel":10,"name":"Clon de Agua","nickname":"","note":"","profile":""},
 {"id":92,"battlerName":"foz","characterIndex":0,"characterName":"Anim domestic by Avy","classId":75,"equips":[124,124,0,117,0],"faceIndex":0,"faceName":"Wolf by Avy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zorro","nickname":"","note":"","profile":""},
 {"id":93,"battlerName":"Monst Golem by Hiddeone","characterIndex":0,"characterName":"","classId":76,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":10,"maxLevel":10,"name":"Golem","nickname":"","note":"","profile":""},
-{"id":94,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":94,"battlerName":"","characterIndex":0,"characterName":"","classId":77,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
