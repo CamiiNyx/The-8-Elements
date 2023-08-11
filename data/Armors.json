@@ -134,5 +134,14 @@ null,
 {"id":132,"atypeId":2,"description":"Sombrero que protegera magicamente.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Sombrero Amarillo","note":"","params":[0,0,0,0,0,30,0,0],"price":350},
 {"id":133,"atypeId":9,"description":"Aumenta los PM maximos en 300 puntos.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":149,"name":"Cinta Cyan","note":"","params":[0,300,0,0,0,0,0,0],"price":120},
 {"id":134,"atypeId":9,"description":"Tomara la mitad del daño de ataques magicos.","etypeId":3,"traits":[{"code":23,"dataId":7,"value":0.5}],"iconIndex":149,"name":"Cinta Lima","note":"","params":[0,0,0,0,0,0,0,0],"price":150},
-{"id":135,"atypeId":9,"description":"Tomara la mitad del daño de ataques fisicos.","etypeId":3,"traits":[{"code":23,"dataId":6,"value":0.5}],"iconIndex":149,"name":"Cinta Narciso","note":"","params":[0,0,0,0,0,0,0,0],"price":150}
+{"id":135,"atypeId":9,"description":"Tomara la mitad del daño de ataques fisicos.","etypeId":3,"traits":[{"code":23,"dataId":6,"value":0.5}],"iconIndex":149,"name":"Cinta Narciso","note":"","params":[0,0,0,0,0,0,0,0],"price":150},
+{"id":136,"atypeId":3,"description":"Hombrera inmune al fuego","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":0}],"iconIndex":129,"name":"Hombrera Piro","note":"","params":[0,0,0,5,0,20,0,0],"price":500},
+{"id":137,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":138,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":139,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":140,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":141,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":142,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":143,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":144,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
