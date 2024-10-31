@@ -1,5 +1,5 @@
 {
-"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"Ruins1","battleback2Name":"Ruins2","bgm":{"name":"20 - Yasuhisa Baba - The Faltering Prayer","pan":0,"pitch":70,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":1,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":4,"width":1,
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"Ruins1","battleback2Name":"Ruins2","bgm":{"name":"20 - Yasuhisa Baba - The Faltering Prayer","pan":0,"pitch":70,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":1,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":4,"width":1,
 "data":[6852,3540,0,0,0,0],
 "events":[
 null,
