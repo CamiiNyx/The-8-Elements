@@ -14,5 +14,6 @@ null,
 {"id":12,"list":[{"code":356,"indent":0,"parameters":["Journal Quest Show"]},{"code":356,"indent":0,"parameters":["Journal Quest Hide"]},{"code":0,"indent":0,"parameters":[]}],"name":"paco","switchId":1,"trigger":0},
 {"id":13,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":14,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":15,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":15,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":16,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
